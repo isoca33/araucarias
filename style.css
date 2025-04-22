@@ -1,15 +1,14 @@
-body {
-  margin: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-align: center;
-  background-color: #f0f8ff;
-}
-
-h1 {
-  margin-top: 20px;
-  color: #2e8b57;
-}
-
-p {
-  color: #555;
-}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Festejando a conexão campo-cidade</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.min.js"></script>
+  <script src="sketch.js"></script>
+</head>
+<body>
+  <h1>Festejando a conexão campo-cidade</h1>
+  <p>Clique no campo para plantar uma árvore!</p>
+</body>
+</html>
